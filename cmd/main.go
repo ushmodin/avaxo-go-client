@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ushmodin/avaxo/goavaxo/client"
+	"github.com/ushmodin/avaxo-go-client"
 )
 
 const ConnectionString = "amqp://avaxo:avaxo@localhost:5672/"
